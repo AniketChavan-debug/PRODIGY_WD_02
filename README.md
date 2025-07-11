@@ -11,12 +11,6 @@ Allows users to track elapsed time, pause, reset, and record lap times in a resp
 - [Overview](#overview)  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
-- [Demo / Preview](#demo--preview)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
